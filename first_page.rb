@@ -5,5 +5,13 @@ def double(num)
 end
 
 double(123)
-
 double("satish")
+
+# My second Commit
+
+def reverse_name(name)
+	puts name.reverse
+end
+
+reverse_name("Prashant")
+reverse_name("Satish")
